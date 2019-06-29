@@ -1,4 +1,4 @@
-# thedeveloperslog-public
+# Read me
 
 As the description says, this repository is my database ahah !
 
