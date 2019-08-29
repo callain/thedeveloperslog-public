@@ -1,6 +1,6 @@
 # Read me
 
-As the description says, this repository is my database ahah !
+As the description says, this repository is the database of The Developer's Log !
 
 ## Issues
 
@@ -11,3 +11,5 @@ Feel free to create an issue if :
 ## Releases
 
 Release will be use to publish news about the website, in other words, publishing changelogs :D
+
+- v1.0.0
