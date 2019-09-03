@@ -13,3 +13,4 @@ Feel free to create an issue if :
 Release will be use to publish news about the website, in other words, publishing changelogs :D
 
 - v1.0.0
+- v1.0.1
