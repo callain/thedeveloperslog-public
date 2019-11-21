@@ -12,8 +12,8 @@ Feel free to create an issue if :
 
 Release will be use to publish news about the website, in other words, publishing changelogs :D
 
-- v1.0.0
-- v1.0.1
-- v1.1.0
-- v1.2.0
-- v1.3.0
+- [v1.0.0](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.0.0)
+- [v1.0.1](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.0.1)
+- [v1.1.0](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.1.0)
+- [v1.2.0](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.2.0)
+- [v1.3.0](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.3.0)
