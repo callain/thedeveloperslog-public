@@ -21,3 +21,4 @@ Release will be use to publish news about the website, in other words, publishin
 - [v1.5.0](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.5.0)
 - [v1.5.1](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.5.1)
 - [v1.6.0](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.6.0)
+- [v1.7.0](https://github.com/callain/thedeveloperslog-public/releases/tag/v1.7.0)
